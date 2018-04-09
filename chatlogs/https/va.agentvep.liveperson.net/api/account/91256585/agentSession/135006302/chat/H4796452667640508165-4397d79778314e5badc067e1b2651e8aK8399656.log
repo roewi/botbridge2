@@ -1,0 +1,10 @@
+[2017-12-15T07:54:23.175] [INFO] chat - Visitor said:Hello
+[2017-12-15T07:54:23.647] [INFO] chat - Jarvis said:Good day!
+[2017-12-15T07:54:31.109] [INFO] chat - Visitor said:I need help
+[2017-12-15T07:54:31.643] [INFO] chat - Jarvis said:Are you a candidate taking a test or an administrator who is responsible for a Questionmark Area or Installation or do you have general Questions about our Products or Services ?
+[2017-12-15T07:54:40.685] [INFO] chat - Visitor said:Yes
+[2017-12-15T07:54:41.552] [INFO] chat - Jarvis said:Of course.
+[2017-12-15T07:54:53.413] [INFO] chat - Visitor said:I am a candidate
+[2017-12-15T07:54:53.792] [INFO] chat - Jarvis said:So you are a candidate. What company or organization are you taking this test for ?
+[2017-12-15T07:55:00.943] [INFO] chat - Visitor said:bye
+[2017-12-15T07:55:01.265] [INFO] chat - Jarvis said:Bye-bye!

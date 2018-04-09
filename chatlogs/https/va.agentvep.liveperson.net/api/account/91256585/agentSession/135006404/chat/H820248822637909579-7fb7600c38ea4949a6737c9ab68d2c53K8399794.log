@@ -1,0 +1,11 @@
+[2017-12-24T15:43:45.350] [INFO] chat - Visitor said:escalate
+[2017-12-24T15:43:45.732] [INFO] chat - Jarvis said:Ok. I try to handover this chat to a human colleague.
+[2017-12-24T15:43:45.779] [INFO] chat - Jarvis said:There was an error tarnsferring you to one of my human colleagues. They might be ooo due to this being a weekend or bank holiday. Please send an email to support@questionmark.com and we will adress from there.
+[2017-12-24T15:44:08.447] [INFO] chat - Visitor said:I need help with SAP
+[2017-12-24T15:44:09.404] [INFO] chat - Jarvis said:Are you a candidate taking a test or an administrator who is responsible for a Questionmark Area or Installation or do you have general Questions about our Products or Services ?
+[2017-12-24T15:44:16.240] [INFO] chat - Visitor said:candidatze
+[2017-12-24T15:44:16.719] [INFO] chat - Jarvis said:Sorry, I did not get what you wrote. Can you say different ?
+[2017-12-24T15:44:24.064] [INFO] chat - Visitor said:candidate
+[2017-12-24T15:44:24.457] [INFO] chat - Jarvis said:So you are a candidate. What company or organization are you taking this test for ?
+[2017-12-24T17:48:18.754] [INFO] chat - Jarvis said:Hello, I am Jarvis, the Questionmark SupportBot. I am here for you 24/7, 7 days a week. I will help you as well as I can. Please do not share passwords or personal details with me. Using me, you agree to the terms of our Privacy Policy https://www.questionmark.com/privacy
+[2017-12-24T17:48:18.754] [INFO] chat - Jarvis said:Type <strong> escalate </strong> if you prefer to chat with one of my human colleagues.

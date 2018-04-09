@@ -1,0 +1,12 @@
+[2017-12-24T15:36:25.940] [INFO] chat - Visitor said:hello Jarvis
+[2017-12-24T15:36:26.672] [INFO] chat - Jarvis said:Hey!
+[2017-12-24T15:36:38.824] [INFO] chat - Visitor said:My name is Eric
+[2017-12-24T15:36:39.320] [INFO] chat - Jarvis said:Hello Eric How can I help you today ?
+[2017-12-24T15:36:57.026] [INFO] chat - Visitor said:My Authoring Manager cannot save escalations
+[2017-12-24T15:36:57.834] [INFO] chat - Jarvis said:Sorry, I did not get what you wrote. Can you say different ?
+[2017-12-24T15:37:09.670] [INFO] chat - Visitor said:can I escalate a task please
+[2017-12-24T15:37:10.609] [INFO] chat - Jarvis said:Ok. I try to handover this chat to a human colleague.
+[2017-12-24T15:37:24.568] [INFO] chat - Visitor said:escalate
+[2017-12-24T15:37:24.568] [INFO] chat - Jarvis said:ESCALATION
+[2017-12-24T15:37:24.923] [INFO] chat - Jarvis said:Ok. I try to handover this chat to a human colleague.
+[2017-12-24T15:37:25.166] [INFO] chat - Jarvis said:There was an error tarnsferring you to one of my human colleagues. They might be ooo due to this being a weekend or bank holiday. Please send an email to support@questionmark.com and we will adress from there.
